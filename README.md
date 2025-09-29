@@ -60,7 +60,8 @@
 
 ## 🎥 시연 영상
 
-📹 `1_.mp4`  
 
-```html
-<video src="1_.mp4" controls width="720"></video>
+
+
+https://github.com/user-attachments/assets/fab4b4e5-07c2-4cf6-988c-eec0acd0e0f4
+
